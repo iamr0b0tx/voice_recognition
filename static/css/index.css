@@ -1,0 +1,27 @@
+div img{
+	position: absolute;
+	top:20%;
+	left: 40%;
+
+	max-height: 250px;
+	border-radius: 100%;
+	padding: 1%;
+	border: 1px solid black;
+}
+
+div img:hover{
+	background-color: yellow;
+	cursor: pointer;
+}
+
+div p{
+	position: absolute;
+	bottom: 10%;
+	left: 10%;
+
+	width: 80%;
+	border-radius: 100px;
+	border: 1px solid black;
+	padding: 1%;
+	text-align: center;
+}
